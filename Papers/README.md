@@ -1,4 +1,4 @@
-# Paper list in confidence calibration for large language model
+# Paper list in confidence calibration for LLM
 ## Related Overview
 | Paper | Source | Year| Code|
 |-------|-------|-------|-------|
