@@ -1,6 +1,6 @@
 <img src="https://github.com/NeuroDong/CalibLLM/blob/main/images/logo.png" width="100%">
 
-# CalibLLM
+# About TrustLLM
 Confidence Calibration for Large Language Model
 
 # Updates & News
