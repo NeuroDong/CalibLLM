@@ -4,5 +4,8 @@
 |-------|-------|-------|-------|
 | [Uncertainty Quantification and Confidence Calibration in Large Language Models: A Survey](https://dl.acm.org/doi/abs/10.1145/3711896.3736569)| KDD|2025|None|
 
-## Related Methods
+## Confidence Calibration for LLM
+Coming soon
+
+## Papers on Related Concepts
 Coming soon
