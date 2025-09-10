@@ -11,8 +11,7 @@ Coming soon
 | Paper | Source | Year| Code|
 |-------|-------|-------|-------|
 | [Can LLMs Express Their Uncertainty? An Empirical Evaluation of Confidence Elicitation in LLMs](https://openreview.net/forum?id=gjeQKFxFpZ)| ICLR|2024|[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/MiaoXiong2320/llm-uncertainty)|
-| [Just Ask for Calibration: Strategies for Eliciting Calibrated Confidence
-Scores from Language Models Fine-Tuned with Human Feedback](https://aclanthology.org/2023.emnlp-main.330/)| EMNLP|2023|None)|
+| [Just Ask for Calibration: Strategies for Eliciting Calibrated Confidence Scores from Language Models Fine-Tuned with Human Feedback](https://aclanthology.org/2023.emnlp-main.330/)| EMNLP|2023|None)|
 
 
 
