@@ -10,7 +10,7 @@ Coming soon
 ## Papers on Related Field
 | Paper | Source | Year| Code| Field |
 |-------|-------|-------|-------|-------|
-| [Can LLMs Express Their Uncertainty? An Empirical Evaluation of Confidence Elicitation in LLMs](https://openreview.net/forum?id=gjeQKFxFpZ)| ICLR|2024|[![Github](https://img.shields.io/badge/Paper-%F0%9F%8E%93-lightgrey?style=for-the-badge&logoWidth=40)](https://github.com/MiaoXiong2320/llm-uncertainty)|Confidence Elicitation|
+| [Can LLMs Express Their Uncertainty? An Empirical Evaluation of Confidence Elicitation in LLMs](https://openreview.net/forum?id=gjeQKFxFpZ)| ICLR|2024|[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/MiaoXiong2320/llm-uncertainty)|Confidence Elicitation|
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/MiaoXiong2320/llm-uncertainty)
+
 
