@@ -15,4 +15,4 @@ We welcome your contributions, including but not limited to the following:
 - Latest paper recommendations.
 - Good dataset recommendations.
 - Improvements to the code toolkit.
-- Tell us about your problems or thoughts in "Issues".
+- Tell us about your problems or thoughts in ["Issues"](https://github.com/NeuroDong/CalibLLM/issues).
