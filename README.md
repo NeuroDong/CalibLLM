@@ -7,6 +7,7 @@ CalibLLM is an open-source solution library for **confidence calibration in larg
 - Classic and state-of-the-art **calibration methods** in the field are reproduced in the folder named ["Code Toolkit"](https://github.com/NeuroDong/CalibLLM/tree/main/Code%20Toolkit).
 
 # Updates & News
+- [11/09/2025] Four papers added in ["Papers"](https://github.com/NeuroDong/CalibLLM/tree/main/Papers).
 - [05/09/2025] Create this repository and determine its three main branches: datasets, papers, and code toolkit.
 
 # 📣 Contribution
