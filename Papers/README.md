@@ -3,6 +3,7 @@
 ## Confidence Calibration for LLM
 | Paper | Source | Year| Code|
 |-------|-------|-------|-------|
+|[Calibrating the Confidence of Large Language Models by Eliciting Fidelity](https://aclanthology.org/2024.emnlp-main.173/)|EMNLP|2024|None|
 |[Confidence Calibration and Rationalization for LLMs via Multi-Agent Deliberation](https://openreview.net/forum?id=UTXtCOWdOM)|ICLR Workshop|2024|[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/minnesotanlp/collaborative-calibration)|
 
 ## Confidence Elicitation for LLM
