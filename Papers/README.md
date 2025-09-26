@@ -3,6 +3,7 @@
 ## Confidence Calibration
 | Paper | Source | Year| Code|
 |-------|-------|-------|-------|
+|[QA-Calibration of Language Model Confidence Scores](https://openreview.net/forum?id=D2hhkU5O48)|ICLR|2025|None|
 |[Calibrating the Confidence of Large Language Models by Eliciting Fidelity](https://aclanthology.org/2024.emnlp-main.173/)|EMNLP|2024|None|
 |[Confidence Calibration and Rationalization for LLMs via Multi-Agent Deliberation](https://openreview.net/forum?id=UTXtCOWdOM)|ICLR Workshop|2024|[![Star](https://img.shields.io/github/stars/minnesotanlp/collaborative-calibration.svg?style=social&label=Star)](https://github.com/minnesotanlp/collaborative-calibration)|
 | [Can LLMs Express Their Uncertainty? An Empirical Evaluation of Confidence Elicitation in LLMs](https://openreview.net/forum?id=gjeQKFxFpZ)| ICLR|2024|[![Star](https://img.shields.io/github/stars/MiaoXiong2320/llm-uncertainty.svg?style=social&label=Star)](https://github.com/MiaoXiong2320/llm-uncertainty)|
