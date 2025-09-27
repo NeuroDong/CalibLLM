@@ -12,7 +12,7 @@
 ## Confidence Calibration for Long-form Generations
 | Paper | Source | Year| Code| Citations |
 |-------|-------|-------|-------|-------|
-| [Calibrating Long-form Generations from Large Language Models](https://aclanthology.org/2024.findings-emnlp.785/)| EMNLP|2024|[![Star](https://img.shields.io/github/stars/kkkevinkkkkk/calibration.svg?style=social&label=Star)](https://github.com/kkkevinkkkkk/calibration)|![Citations]()|
+| [Calibrating Long-form Generations from Large Language Models](https://aclanthology.org/2024.findings-emnlp.785/)| EMNLP|2024|[![Star](https://img.shields.io/github/stars/kkkevinkkkkk/calibration.svg?style=social&label=Star)](https://github.com/kkkevinkkkkk/calibration)|![Citations](badges/Calibrating_Long-form_Generations_from_Large_Language_Models.svg)|
 
 ## Related Surveys
 | Paper | Source | Year| Code|Citations |
