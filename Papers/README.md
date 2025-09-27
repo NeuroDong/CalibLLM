@@ -9,6 +9,11 @@
 | [Can LLMs Express Their Uncertainty? An Empirical Evaluation of Confidence Elicitation in LLMs](https://openreview.net/forum?id=gjeQKFxFpZ)| ICLR|2024|[![Star](https://img.shields.io/github/stars/MiaoXiong2320/llm-uncertainty.svg?style=social&label=Star)](https://github.com/MiaoXiong2320/llm-uncertainty)|![Citations](badges/Can_LLMs_Express_Their_Uncertainty__An_Empirical_Evaluation_of_Confidence_Elicitation_in_LLMs.svg)|
 | [Just Ask for Calibration: Strategies for Eliciting Calibrated Confidence Scores from Language Models Fine-Tuned with Human Feedback](https://aclanthology.org/2023.emnlp-main.330/)| EMNLP|2023|None|![Citations](badges/Just_Ask_for_Calibration__Strategies_for_Eliciting_Calibrated_Confidence_Scores_from_Language_Models_Fine-Tuned_with_Hum.svg)|
 
+## Confidence Calibration for Long-form Generations
+| Paper | Source | Year| Code| Citations |
+|-------|-------|-------|-------|-------|
+| [Calibrating Long-form Generations from Large Language Models](https://aclanthology.org/2024.findings-emnlp.785/)| EMNLP|2024|[![Star](https://img.shields.io/github/stars/kkkevinkkkkk/calibration.svg?style=social&label=Star)](https://github.com/kkkevinkkkkk/calibration)|![Citations]()|
+
 ## Related Surveys
 | Paper | Source | Year| Code|Citations |
 |-------|-------|-------|-------|-------|
