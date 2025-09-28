@@ -12,6 +12,7 @@
 ## Confidence Calibration for Long-form Generations
 | Paper | Source | Year| Code| Citations |
 |-------|-------|-------|-------|-------|
+| [Fact-Level Calibration and Correction for Long-Form Generations](https://dl.acm.org/doi/abs/10.1145/3726302.3730195)| SIGIR|2025|[![Star](https://img.shields.io/github/stars/yuanyige/fact-calibration.svg?style=social&label=Star)](https://github.com/yuanyige/fact-calibration)|![Citations](badges/Fact-Level_Calibration_and_Correction_for_Long-Form_Generations.svg)|
 | [Calibrating Long-form Generations from Large Language Models](https://aclanthology.org/2024.findings-emnlp.785/)| EMNLP|2024|[![Star](https://img.shields.io/github/stars/kkkevinkkkkk/calibration.svg?style=social&label=Star)](https://github.com/kkkevinkkkkk/calibration)|![Citations](badges/Calibrating_Long-form_Generations_from_Large_Language_Models.svg)|
 
 ## Related Surveys
