@@ -14,6 +14,7 @@
 |-------|-------|-------|-------|-------|
 | [Fact-Level Calibration and Correction for Long-Form Generations](https://dl.acm.org/doi/abs/10.1145/3726302.3730195)| SIGIR|2025|[![Star](https://img.shields.io/github/stars/yuanyige/fact-calibration.svg?style=social&label=Star)](https://github.com/yuanyige/fact-calibration)|![Citations](badges/Fact-Level_Calibration_and_Correction_for_Long-Form_Generations.svg)|
 | [Calibrating Long-form Generations from Large Language Models](https://aclanthology.org/2024.findings-emnlp.785/)| EMNLP|2024|[![Star](https://img.shields.io/github/stars/kkkevinkkkkk/calibration.svg?style=social&label=Star)](https://github.com/kkkevinkkkkk/calibration)|![Citations](badges/Calibrating_Long-form_Generations_from_Large_Language_Models.svg)|
+| [Linguistic Calibration of Long-Form Generations](https://proceedings.mlr.press/v235/band24a.html) | ICML | 2024 | [![Star](https://img.shields.io/github/stars/tatsu-lab/linguistic_calibration.svg?style=social&label=Star)](https://github.com/tatsu-lab/linguistic_calibration)|![Citations](badges/Linguistic_Calibration_of_Long-Form_Generations.svg)|
 
 ## Related Surveys
 | Paper | Source | Year| Code|Citations |
